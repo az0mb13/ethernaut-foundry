@@ -8,7 +8,7 @@ More levels will be added soon.
 - [x] Lvl 2 Fallout
 - [x] Lvl 3 Coin Flip
 - [x] Lvl 4 Telephone
-- [ ] Lvl 5 Token
+- [x] Lvl 5 Token
 - [ ] Lvl 6 Delegation
 - [ ] Lvl 7 Force
 - [ ] Lvl 8 Vault
