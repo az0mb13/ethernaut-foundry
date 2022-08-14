@@ -22,4 +22,4 @@ More levels will be added soon.
 - [ ] Lvl 16 Preservation
 - [ ] Lvl 17 Locked
 - [ ] Lvl 18 Recovery
-- [ ] Lvl 19 MagicNumber
+- [ ] Lvl 19 MagicNumberx
