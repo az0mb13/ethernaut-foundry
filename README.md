@@ -15,7 +15,7 @@ More levels will be added soon.
 - [x] Lvl 6 Delegation
 - [x] Lvl 7 Force
 - [x] Lvl 8 Vault
-- [ ] Lvl 9 King
+- [x] Lvl 9 King
 - [ ] Lvl 10 Re-entrancy
 - [ ] Lvl 11 Elevator
 - [ ] Lvl 12 Privacy
