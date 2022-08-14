@@ -1,4 +1,7 @@
-# ethernaut-foundry
+# Ethernaut-Foundry
+
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/az0mb13/e12cd243b128cacebb80bdf920e61de1/raw/clone.json&logo=github)](https://github.com/az0mb13/ethernaut-foundry)
+
 Solutions and Walkthrough for Openzeppelin's Ethernaut CTF written in Solidity with the help of Foundry.
 
 Analysis and detailed solutions can be found on my blog - https://blog.dixitaditya.com/series/ethernaut
@@ -22,4 +25,4 @@ More levels will be added soon.
 - [ ] Lvl 16 Preservation
 - [ ] Lvl 17 Locked
 - [ ] Lvl 18 Recovery
-- [ ] Lvl 19 MagicNumberx
+- [ ] Lvl 19 MagicNumber
