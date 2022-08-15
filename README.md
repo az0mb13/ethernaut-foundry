@@ -16,7 +16,7 @@ More levels will be added soon.
 - [x] Lvl 7 Force
 - [x] Lvl 8 Vault
 - [x] Lvl 9 King
-- [ ] Lvl 10 Re-entrancy
+- [x] Lvl 10 Re-entrancy
 - [ ] Lvl 11 Elevator
 - [ ] Lvl 12 Privacy
 - [ ] Lvl 13 Gatekeeper 1
