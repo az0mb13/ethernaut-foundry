@@ -6,6 +6,8 @@ Solutions and Walkthrough for Openzeppelin's Ethernaut CTF written in Solidity w
 
 Analysis and detailed solutions can be found on my blog - https://blog.dixitaditya.com/series/ethernaut
 
+A guide on how to set up and get started with using Foundry and Solidity to write solutions for Ethernaut - https://blog.dixitaditya.com/getting-started-with-ethernaut-hello-ethernaut
+
 More levels will be added soon. 
 - [x] Lvl 1 Fallback function
 - [x] Lvl 2 Fallout
