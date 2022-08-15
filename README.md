@@ -1,6 +1,6 @@
 # Ethernaut-Foundry
 
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/az0mb13/e12cd243b128cacebb80bdf920e61de1/raw/clone.json&logo=github)](https://github.com/az0mb13/ethernaut-foundry)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/az0mb13/e12cd243b128cacebb80bdf920e61de1/raw/clone.json&logo=github)](https://github.com/az0mb13/ethernaut-foundry)&nbsp;&nbsp;[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 Solutions and Walkthrough for Openzeppelin's Ethernaut CTF written in Solidity with the help of Foundry.
 
