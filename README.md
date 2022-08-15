@@ -1,10 +1,10 @@
 # Ethernaut-Foundry
 
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/az0mb13/e12cd243b128cacebb80bdf920e61de1/raw/clone.json&logo=github)](https://github.com/az0mb13/ethernaut-foundry)
-&nbsp;&nbsp;
-[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)]([https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity](https://github.com/az0mb13/ethernaut-foundry/commits))
-&nbsp;&nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faz0mb13%2Fethernaut-foundry&count_bg=%238DBB06&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)]([[https://hits.seeyoufarm.com](https://github.com/az0mb13/ethernaut-foundry)](https://github.com/az0mb13/ethernaut-foundry))
+&nbsp;
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)]([https://github.com/az0mb13/ethernaut-foundry/graphs/commit-activity](https://github.com/az0mb13/ethernaut-foundry/graphs/commit-activity))
+&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faz0mb13%2Fethernaut-foundry&count_bg=%238DBB06&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)]([[https://github.com/az0mb13/ethernaut-foundry](https://github.com/az0mb13/ethernaut-foundry)](https://github.com/az0mb13/ethernaut-foundry))
 
 Solutions and Walkthrough for Openzeppelin's Ethernaut CTF written in Solidity with the help of Foundry.
 
