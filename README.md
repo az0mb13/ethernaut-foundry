@@ -1,10 +1,16 @@
 # Ethernaut-Foundry
 
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/az0mb13/e12cd243b128cacebb80bdf920e61de1/raw/clone.json&logo=github)](https://github.com/az0mb13/ethernaut-foundry)
+&nbsp;
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)]([https://github.com/az0mb13/ethernaut-foundry/graphs/commit-activity](https://github.com/az0mb13/ethernaut-foundry/graphs/commit-activity))
+&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faz0mb13%2Fethernaut-foundry&count_bg=%238DBB06&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)]([[https://github.com/az0mb13/ethernaut-foundry](https://github.com/az0mb13/ethernaut-foundry)](https://github.com/az0mb13/ethernaut-foundry))
 
 Solutions and Walkthrough for Openzeppelin's Ethernaut CTF written in Solidity with the help of Foundry.
 
 Analysis and detailed solutions can be found on my blog - https://blog.dixitaditya.com/series/ethernaut
+
+A guide on how to set up and get started with using Foundry and Solidity to write solutions for Ethernaut - https://blog.dixitaditya.com/getting-started-with-ethernaut-hello-ethernaut
 
 More levels will be added soon. 
 - [x] Lvl 1 Fallback function
@@ -16,7 +22,7 @@ More levels will be added soon.
 - [x] Lvl 7 Force
 - [x] Lvl 8 Vault
 - [x] Lvl 9 King
-- [ ] Lvl 10 Re-entrancy
+- [x] Lvl 10 Re-entrancy
 - [ ] Lvl 11 Elevator
 - [ ] Lvl 12 Privacy
 - [ ] Lvl 13 Gatekeeper 1
