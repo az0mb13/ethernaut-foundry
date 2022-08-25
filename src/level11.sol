@@ -5,7 +5,7 @@ import "../instances/Ilevel11.sol";
 
 contract BrokenElevator {
 
-    Elevator level11 = Elevator(0xc97153EF1244388e24FA314c4DF4940Fb6cAAe23);
+    Elevator level11 = Elevator(0x2A60b6D024Fc4A82E64c114Bbc43879623701379);
     bool public counter = false;
     
     function gotoFloor() public {
