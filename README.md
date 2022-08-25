@@ -23,8 +23,8 @@ More levels will be added soon.
 - [x] Lvl 8 Vault
 - [x] Lvl 9 King
 - [x] Lvl 10 Re-entrancy
-- [ ] Lvl 11 Elevator
-- [ ] Lvl 12 Privacy
+- [x] Lvl 11 Elevator
+- [x] Lvl 12 Privacy
 - [ ] Lvl 13 Gatekeeper 1
 - [ ] Lvl 14 Gatekeeper 2
 - [ ] Lvl 15 Naught Coin
