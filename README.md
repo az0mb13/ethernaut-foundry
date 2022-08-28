@@ -39,3 +39,5 @@ More levels will be added soon.
 - [ ] Lvl 24 Puzzle Wallet
 - [ ] Lvl 25 Motorbike
 - [ ] Lvl 26 DoubleEntryPoint
+
+Codes for some levels are written completely in Solidity and are inside the `src` folder whereas others are written as foundry scripts which are also written in Solidity but they provide some extra cheat codes. These solutions are inside the `script` folder. The `test` folder is just for experimenting. 
