@@ -25,10 +25,17 @@ More levels will be added soon.
 - [x] Lvl 10 Re-entrancy
 - [x] Lvl 11 Elevator
 - [x] Lvl 12 Privacy
-- [ ] Lvl 13 Gatekeeper 1
-- [ ] Lvl 14 Gatekeeper 2
-- [ ] Lvl 15 Naught Coin
-- [ ] Lvl 16 Preservation
-- [ ] Lvl 17 Locked
-- [ ] Lvl 18 Recovery
-- [ ] Lvl 19 MagicNumber
+- [x] Lvl 13 Gatekeeper 1
+- [x] Lvl 14 Gatekeeper 2
+- [x] Lvl 15 Naught Coin
+- [x] Lvl 16 Preservation
+- [x] Lvl 17 Recovery
+- [ ] Lvl 18 MagicNumber
+- [ ] Lvl 19 Alien Codex
+- [ ] Lvl 20 Denial
+- [ ] Lvl 21 Shop
+- [ ] Lvl 22 Dex
+- [ ] Lvl 23 Dex Two
+- [ ] Lvl 24 Puzzle Wallet
+- [ ] Lvl 25 Motorbike
+- [ ] Lvl 26 DoubleEntryPoint
