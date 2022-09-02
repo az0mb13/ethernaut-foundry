@@ -12,6 +12,11 @@ Analysis and detailed solutions can be found on my blog - https://blog.dixitadit
 
 A guide on how to set up and get started with using Foundry and Solidity to write solutions for Ethernaut - https://blog.dixitaditya.com/getting-started-with-ethernaut-hello-ethernaut
 
+* Codes for some levels are written completely in Solidity and are inside the `src` folder whereas 
+* Others are written as foundry scripts which are also written in Solidity but they provide some extra cheat codes. These solutions are inside the `script` folder. 
+* The `test` folder is just for experimenting. 
+* The `instances` folder contains the original code for the levels which I'm using as interfaces. 
+
 More levels will be added soon. 
 - [x] Lvl 1 Fallback function
 - [x] Lvl 2 Fallout
@@ -40,7 +45,3 @@ More levels will be added soon.
 - [ ] Lvl 25 Motorbike
 - [ ] Lvl 26 DoubleEntryPoint
 
-* Codes for some levels are written completely in Solidity and are inside the `src` folder whereas 
-* Others are written as foundry scripts which are also written in Solidity but they provide some extra cheat codes. These solutions are inside the `script` folder. 
-* The `test` folder is just for experimenting. 
-* The `instances` folder contains the original code for the levels which I'm using as interfaces. 
