@@ -35,8 +35,8 @@ More levels will be added soon.
 - [x] Lvl 15 Naught Coin
 - [x] Lvl 16 Preservation
 - [x] Lvl 17 Recovery
-- [ ] Lvl 18 MagicNumber
-- [ ] Lvl 19 Alien Codex
+- [x] Lvl 18 MagicNumber
+- [x] Lvl 19 Alien Codex
 - [ ] Lvl 20 Denial
 - [ ] Lvl 21 Shop
 - [ ] Lvl 22 Dex
