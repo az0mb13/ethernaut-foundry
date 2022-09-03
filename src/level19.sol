@@ -13,4 +13,4 @@ contract AlienHack {
         level19.retract();
         level19.revise(index, myAddress);
     }
-}
+} 
