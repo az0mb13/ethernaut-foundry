@@ -43,5 +43,5 @@ More levels will be added soon.
 - [x] Lvl 23 Dex Two
 - [x] Lvl 24 Puzzle Wallet
 - [x] Lvl 25 Motorbike
-- [ ] Lvl 26 DoubleEntryPoint
+- [x] Lvl 26 DoubleEntryPoint
 
