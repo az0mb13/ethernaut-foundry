@@ -44,4 +44,4 @@ More levels will be added soon.
 - [x] Lvl 24 Puzzle Wallet
 - [x] Lvl 25 Motorbike
 - [x] Lvl 26 DoubleEntryPoint
-
+- [x] Lvl 27 Good Samaritan
